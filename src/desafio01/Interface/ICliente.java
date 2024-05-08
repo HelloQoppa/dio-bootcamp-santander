@@ -1,4 +1,4 @@
-package Interface;
+package desafio01.Interface;
 
 public interface ICliente {
 

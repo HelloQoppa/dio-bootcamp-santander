@@ -1,8 +1,8 @@
-package model;
+package desafio01.model;
 
 import java.util.Scanner;
 
-import Interface.ICliente;
+import desafio01.Interface.ICliente;
 
 public class Cliente implements ICliente {
 
